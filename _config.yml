@@ -3,16 +3,22 @@ title               : Uthappa Madettira
 description         : >-
                       I am passionate about developing intelligent, data-driven automation solutions for manufacturing.
                       Take a look at my portfolio to explore my projects, technical skills, and contributions to smart automation.
-baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : Uthappa13/portfolio      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : "/portfolio"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : Uthappa13    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 # remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
 plugins:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - mini_magick
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-gist
   - jemoji
-
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
