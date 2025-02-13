@@ -39,18 +39,21 @@ By analyzing vibration data collected from bearings under different failure cond
     - Self-Organizing Map (SOM-MQE) is used for anomaly detection.
     - Support Vector Machines (SVM-OvO & SVM-OvR) are used for classification.
     - Artificial Neural Network (ANN-MLP) is employed for deep learning-based classification.
-- **Model Evaluation**
-    - Models are compared based on accuracy.
-    - Confusion matrices are used to analyze misclassifications.
 
 
-<!-- ![image](/portfolio/assets/pngs/gametug.png)
+## Project Snippets
 
+#### **Vibration Data Analysis**
+![Vibration Data](/portfolio/images/bearing_project2.png)
 
-## Formulation
+#### **Bearing Health Condition Visualization**
+![Bearing Health](/portfolio/images/bearing_project3.png)
 
+#### **Bearing Fault Classification Visualization**
+![Bearing Fault](/portfolio/images/bearing_project4.png)
 
-![image](/portfolio/assets/pngs/gameformulation.png) -->
+#### **Confusion Matrix Visualization**
+![Confusion](/portfolio/images/bearing_project5.png)
 
 
 ## Detailed code on Github
@@ -58,7 +61,3 @@ By analyzing vibration data collected from bearings under different failure cond
 <div class="left">
 {% include elements/button.html link="https://github.com/Uthappa13/Bearing-health-diagnosis/tree/master" text="Code on Github" %}
 </div>
-
-<!-- <div class="right">
-{% include elements/button.html link="https://github.com/utsavmajumdar14/resource_alloc_envy" text="Repository" %}
-</div> -->
