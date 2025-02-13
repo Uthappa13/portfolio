@@ -1,0 +1,39 @@
+- name: RSLogix 500
+  percentage: 80
+  level: 
+  color: primary
+
+- name: CATIA
+  percentage: 75
+  level: 
+  color: primary
+
+- name: SolidWorks
+  percentage: 75
+  level: 
+  color: primary
+
+- name: Studio 5000
+  percentage: 70
+  level: 
+  color: primary
+
+- name: Ansys
+  percentage: 70
+  level: 
+  color: primary
+
+- name: Gazebo
+  percentage: 70
+  level: 
+  color: primary
+
+- name: Simulink
+  percentage: 55
+  level: 
+  color: warning
+
+- name: PowerBI
+  percentage: 55
+  level: 
+  color: warning

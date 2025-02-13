@@ -1,11 +1,29 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
+- name: C++
+  percentage: 85
+  level: 
+  color: primary
 
 - name: Python
-  percentage: 70
-  color: secondary
+  percentage: 80
+  level: 
+  color: primary
+
+- name: Ladder Logic (PLC)
+  percentage: 80
+  level: 
+  color: primary
+
+- name: MATLAB
+  percentage: 75
+  level: 
+  color: primary
+
+- name: SQL
+  percentage: 50
+  level: 
+  color: warning
+
+- name: Bash
+  percentage: 45
+  level: 
+  color: warning
