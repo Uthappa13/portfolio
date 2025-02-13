@@ -43,16 +43,16 @@ By analyzing vibration data collected from bearings under different failure cond
 
 ## Project Snippets
 
-#### **Vibration Data Analysis**
+ **Vibration Data Analysis**
 ![Vibration Data](/portfolio/images/bearing_project2.png)
 
-#### **Bearing Health Condition Visualization**
+ **Bearing Health Condition Visualization**
 ![Bearing Health](/portfolio/images/bearing_project3.png)
 
-#### **Bearing Fault Classification Visualization**
+ **Bearing Fault Classification Visualization**
 ![Bearing Fault](/portfolio/images/bearing_project4.png)
 
-#### **Confusion Matrix Visualization**
+ **Confusion Matrix Visualization**
 ![Confusion](/portfolio/images/bearing_project5.png)
 
 
