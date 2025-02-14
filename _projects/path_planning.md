@@ -41,10 +41,10 @@ This project implements the Informed RRT* path planning algorithm and simulates 
 ## Project Snippets
 
  **Path Visualization in Matplotlib**
-<!-- ![Vibration Data](/portfolio/images/bearing_project2.png) -->
+![Path Visualization](/portfolio/images/rrt1.png)
 
  **Path Simulation in Gazebo**
-<!-- ![Bearing Health](/portfolio/images/bearing_project3.png) -->
+![Path Simulation](/portfolio/images/rrtstar_video.gif)
 
 
 ## Detailed code on Github
