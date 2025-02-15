@@ -35,13 +35,13 @@ This project focuses on developing a ROS2 package that enables a TurtleBot to na
     - The logical camera detects floating objects and publishes to /mage/advanced_logical_camera/image
 
 
-## Project Demo
+## Project Snippets
 
  <!-- **Path Visualization in Matplotlib** -->
 <!-- ![Vibration Data](/portfolio/images/bearing_project2.png) -->
 
- <!-- **Path Simulation in Gazebo** -->
-<!-- ![Bearing Health](/portfolio/images/bearing_project3.png) -->
+ **Navigation Simulation in Gazebo**
+![Nav sim](/portfolio/images/nav1.png)
 
 
 ## Detailed code on Github
