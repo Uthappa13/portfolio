@@ -1,5 +1,5 @@
 ---
-name: Industrial Automation using Function Block Programming
+name: Industrial Automation using Function Block PLC Programming
 tools: [Factory IO, Control IO]
 image: /portfolio/images/fblock1.jpg
 description: Control logic is developed using Function Block Programming in Control IO and simulated in Factory IO.
