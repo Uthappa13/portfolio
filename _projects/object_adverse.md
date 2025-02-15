@@ -1,7 +1,7 @@
 ---
 name: Parameterized Defogging Network for Object Detection in Adverse Weather Conditions
 tools: [Python, PyTorch, YOLOv5]
-image: /portfolio/images/adverse1.jpg
+image: /portfolio/images/adverse1.png
 description: This project focuses on enhancing object detection in autonomous driving systems under challenging weather conditions like fog.
 ---
 
@@ -47,13 +47,13 @@ To address this, the project introduces a Convolutional Neural Network-based Par
 ## Project Snippets
 
  **Model Architecture**
-![Model Architecture](/portfolio/images/adverse1.png)
+![Model Architecture](/portfolio/images/adverse1.png)<br>
 
  **Image before and after Defogging**
-![Bearing Health](/portfolio/images/adverse2.png)
+![Bearing Health](/portfolio/images/adverse2.png)<br>
 
  **Object Detection Results**
-![Bearing Fault](/portfolio/images/adverse3.png)
+![Bearing Fault](/portfolio/images/adverse3.png)<br>
 
 
 ## Detailed code on Github
