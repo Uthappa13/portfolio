@@ -9,7 +9,7 @@ description: This project focuses on developing a ROS2 package that enables a ro
 
 ## Project Overview
 
-This project focuses on developing a ROS2 package that enables a TurtleBot to navigate a warehouse environment using Aruco markers for guidance. While navigating, the robot detects and reports objects present in the environment. The key objectives include:
+This project focuses on developing a ROS2 package that enables a robot to navigate a warehouse environment using Aruco markers for guidance. While navigating, the robot detects and reports objects present in the environment. The key objectives include:
 - Moving the robot through the environment by detecting Aruco markers.
 - Executing predefined actions based on marker identification.
 - Detecting and reporting the pose of objects in the environment.
