@@ -43,6 +43,8 @@ Semantic segmentation is a computer vision task where every pixel in an image is
 ## Project Snippets
 
 - **Segmentation Result**
+
+    ![Segmentation](/portfolio/images/semantic3.gif)
     ![Segmentation](/portfolio/images/semantic2.png)
 
 
