@@ -40,8 +40,8 @@ This project focuses on developing a ROS2 package that enables a robot to naviga
  <!-- **Path Visualization in Matplotlib** -->
 <!-- ![Vibration Data](/portfolio/images/bearing_project2.png) -->
 
- **Navigation Simulation in Gazebo**
-![Nav sim](/portfolio/images/nav1.png)
+- **Navigation Simulation in Gazebo**
+    ![Nav sim](/portfolio/images/nav1.png)
 
 
 ## Detailed code on Github

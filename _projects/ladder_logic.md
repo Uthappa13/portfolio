@@ -12,6 +12,8 @@ description: Check out my Ladder Logic PLC code for some of the common industria
 This project involves developing Programmable Logic Controller (PLC) code using Ladder Logic in RSLogix 500 for some common industrial automation scenarios.
 The project focuses on simulating and implementing common automation tasks encountered in manufacturing, material handling, and process industries.
 
+![PLC video](/portfolio/images/plc_video.gif)
+
 ## Tech Stack
 - **Ladder Logic** for programming.
 - **RSLogix 500** for code development.

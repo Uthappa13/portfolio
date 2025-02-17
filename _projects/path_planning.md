@@ -40,11 +40,11 @@ This project implements the Informed RRT* path planning algorithm and simulates 
 
 ## Project Snippets
 
- **Path Visualization in Matplotlib**
-![Path Visualization](/portfolio/images/rrt1.png)
+- **Path Visualization in Matplotlib**
+    ![Path Visualization](/portfolio/images/rrt1.png)
 
- **Path Simulation in Gazebo**
-![Path Simulation](/portfolio/images/rrtstar_video.gif)
+- **Path Simulation in Gazebo**
+    ![Path Simulation](/portfolio/images/rrtstar_video.gif)
 
 
 ## Detailed code on Github
