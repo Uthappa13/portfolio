@@ -22,10 +22,16 @@ Both projects leverage Control IO for logic implementation and Factory IO for dy
 - **Factory IO** for logic simulation.
 
 
-## Project Demo
+<!-- ## Project Demo
 
  **Conveyor Automation**
 <!-- ![Vibration Data](/portfolio/images/bearing_project2.png) -->
 
- **Tank Automation**
+ <!-- **Tank Automation** --> -->
 <!-- ![Vibration Data](/portfolio/images/bearing_project2.png) -->
+
+## Detailed logic on Github
+
+<div class="left">
+{% include elements/button.html link="https://github.com/Uthappa13/FBP_factoryIO.git" text="Logic on Github" %}
+</div>

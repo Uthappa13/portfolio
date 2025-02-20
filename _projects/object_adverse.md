@@ -12,7 +12,7 @@ This project focuses on enhancing object detection in autonomous driving systems
 To address this, the project introduces a Convolutional Neural Network-based Parameter Predictor (CNN-PP) that estimates optimal parameters for a Differentiable Image Processing (DIP) module. The DIP module enhances images by applying defogging, contrast adjustment, gamma correction, and sharpening before passing them to the YOLO-based object detection model. The proposed solution improves detection accuracy and efficiency, making autonomous navigation more reliable in complex environments.
 
 ## Tech Stack
-- **Python** for programming language
+- **Python** for programming
 - **PyTroch** for Deep Learning Framework
 - **YOLOv5** Object Detection Model
 - **Matplotlib** for image visualization
