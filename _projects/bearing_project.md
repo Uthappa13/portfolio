@@ -1,11 +1,11 @@
 ---
-name: Health Monitoring and Fault Classification of Rotating Bearings
+name: Predictive Maintenance for Rotating Machines using Machine Learning Models
 tools: [Python, Scikit-learn, SVM, ANN]
 image: /portfolio/images/bearing_project1.png
 description: Predictive maintenance for rotating machines using machine learning models.
 ---
 
-# Health Monitoring and Fault Classification of Rotating Bearings
+# Predictive Maintenance for Rotating Machines using Machine Learning Models
 
 ## Project Overview
 

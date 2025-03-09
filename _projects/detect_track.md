@@ -46,9 +46,9 @@ The project follows an Agile Iterative Process (AIP), incorporating best practic
 - **Real-Time Tracking**: Continuously tracks detected humans and updates their positions in the robot’s reference frame.
 
 
-<!-- ## Project Demo -->
-
-<!-- ![Vibration Data](/portfolio/images/bearing_project2.png) -->
+## Project Demo -->
+    
+![Demo](/portfolio/images/detect_track11.gif)
 
 
 ## Detailed code on Github
