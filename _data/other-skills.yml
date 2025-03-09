@@ -2,13 +2,21 @@
   percentage: 90
   color: primary
 
-- name: ROS2
-  percentage: 70
+- name: Minitab
+  percentage: 75
+  color: primary
+
+- name: Kaizen
+  percentage: 75
   color: primary
 
 - name: Six Sigma
-  percentage: 60
-  color: warning
+  percentage: 70
+  color: primary
+
+- name: ROS2
+  percentage: 70
+  color: primary
 
 - name: PyTorch/Scikit-learn
   percentage: 60
